@@ -16,7 +16,7 @@
 
 ## Pure functions
 
-* side effects
+* lack of side effects
 * idempotence
 
 ----
@@ -146,7 +146,8 @@ export default useStore;
 ```
 
 ---
-
+## Now you're ready to write an application state :)
+---
 
 ## any questions?
 
